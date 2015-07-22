@@ -1,2 +1,1 @@
-# mesos
-Apache Mesos
+### See the wiki ----->
